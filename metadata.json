@@ -1,0 +1,6 @@
+{
+  "name": "FAUNARTventure",
+  "description": "Game edukatif interaktif Seni Rupa SMP Kelas VII: Jelajah fauna, temukan bentuk dasar, amati proporsi, dan ciptakan karya gambar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
